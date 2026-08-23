@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
