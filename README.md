@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0283-move-zeroes) |
 ## Tree
@@ -86,4 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
