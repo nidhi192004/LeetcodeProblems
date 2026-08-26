@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 ## String
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
