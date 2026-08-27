@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
