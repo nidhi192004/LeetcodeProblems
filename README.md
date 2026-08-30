@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
