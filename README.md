@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -137,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
