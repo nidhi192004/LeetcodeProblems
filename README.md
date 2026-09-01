@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0279-perfect-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0279-perfect-squares) |
 ## Counting
 |  |
 | ------- |
@@ -164,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
