@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 ## Tree
 |  |
