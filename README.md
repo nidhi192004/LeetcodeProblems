@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhi192004/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Stack
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
