@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/nidhi192004/LeetcodeProblems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0067-add-binary) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/nidhi192004/LeetcodeProblems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
 | ------- |
