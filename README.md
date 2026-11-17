@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nidhi192004/LeetcodeProblems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/nidhi192004/LeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
